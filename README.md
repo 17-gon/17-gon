@@ -13,4 +13,4 @@
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=17-gon)](https://github.com/17-gon/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=17-gon&count_private=true)](https://github.com/17-gon/github-readme-stats)
