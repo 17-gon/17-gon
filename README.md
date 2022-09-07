@@ -10,3 +10,4 @@
     <img height="20" src="https://img.shields.io/github/followers/17-gon?label=follow&logo=github&style=flat" />
   </a>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17-gon&layout=compact)](https://github.com/17-gon/17-gon)
