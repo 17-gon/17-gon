@@ -1,7 +1,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=17-gon&theme=onedark)](https://github.com/17-gon/)
 
 
-![](https://github-readme-stats.vercel.app/api?username=17-gon&count_private=true&show_icons=true&theme=dracula)
+<p> 
+  <img alt="Top Langs" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17-gon&layout=compact&theme=ayu-mirage" />
+  <img alt="github stats" height="175" src="https://github-readme-stats.vercel.app/api?username=17-gon&theme=ayu-mirage&show_icons=true" />
+</p>
 
 
 <p align="left">
