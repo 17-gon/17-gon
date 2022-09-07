@@ -1,7 +1,7 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=17-gon)](https://github.com/17-gon/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=17-gon&theme=onedark)](https://github.com/17-gon/)
 ![](https://github-readme-stats.vercel.app/api?username=17-gon&count_private=true&show_icons=true&theme=dracula)
 <p align="left">
-  <a href="https://github.com/17-gon/17-gon/">
+  <a href="https://github.com/17-gon/">
     <img src="https://komarev.com/ghpvc/?username=17-gon" alt="17-gon" />
   </a>
   <a href="http://twitter.com/rikuinada17_gon">
