@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=17-gon)](https://github.com/17-gon/)
 ![](https://github-readme-stats.vercel.app/api?username=17-gon&count_private=true&show_icons=true&theme=dracula)
 <p align="left">
   <a href="https://github.com/17-gon/17-gon/">
